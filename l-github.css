@@ -4,9 +4,10 @@ body{
 .top__menu{
     position: relative;
     top: 0;
-    left: 25%;
-    width: 50%;
+    left: 5%;
+    width: 75%;
     height: 58px;
+    margin-top: -10px;
 }
 .top__ul{
     list-style: none;
